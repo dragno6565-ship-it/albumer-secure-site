@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /auth/
+Disallow: /signup
+Disallow: /login
+Disallow: /account-deletion.html
